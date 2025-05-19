@@ -112,7 +112,7 @@ def process_command(command):
     elif 'my person' in command:
         speak("I love you Aae Baba.")
     elif 'first love' in command:
-        speak("RT, I still love you three thousand.")
+        speak("RT, I love you three thousand.")
     else:
         speak("I didn't understand the command. Please repeat.")
 
